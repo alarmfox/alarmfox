@@ -21,6 +21,6 @@
 <br />
 <br />
 
-<img align="left" alt="alarmfox's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alarmfox&show_icons=true&hide_border=true&theme=dark&custom_title=alarmfox's%20stats&hide_borders=true" />
+<img align="left" alt="alarmfox's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alarmfox&show_icons=true&hide_border=true&theme=dark&custom_title=alarmfox%20stats&hide_border=true" />
 
 
