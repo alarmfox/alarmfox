@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning kubernetes and microservices pattern;
 - 📅 2021 Goals: contributing more to open source projects;
 - ⚡ Fun fact: i love making music 🎧;
-
 <br />
 
 ### Languages and Tools:
