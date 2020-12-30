@@ -1,5 +1,5 @@
-### Hi, I'm Giuseppe - aka [alarmfox] !
-# 🇮🇹 🎓 Computer engineering student and distributed computing lover!
+### Hi, I'm Giuseppe - aka [alarmfox]
+#### 🇮🇹 🎓 Computer engineering student and distributed computing lover!
 
 - 🔭 I’m currently working on Kate: a distributed system for domotics;
 - 🌱 I’m currently learning kubernetes and microservices pattern;
@@ -7,7 +7,6 @@
 - ⚡ Fun fact: i love making music 🎧;
 
 <br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Go" width="26px" src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png"/>
