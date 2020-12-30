@@ -17,10 +17,12 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
+<!--START_SECTION:activity-->
+
+
 <br />
 <br />
 
 <img align="left" alt="alarmfox's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alarmfox&show_icons=true&hide_border=true&theme=dark" />
 
-<!--START_SECTION:activity-->
 
