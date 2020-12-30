@@ -18,7 +18,9 @@
 <!--START_SECTION:activity-->
 
 
-[![alarmfox's stats](https://github-readme-stats.codestackr.vercel.app/api?username=alarmfox&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
 
+<img align="left" alt="alarmfox's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alarmfox&show_icons=true&hide_border=true&theme=dark" />
 
 
