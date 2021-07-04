@@ -18,9 +18,3 @@
 <img align="left" alt="Docker" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/docker-11-1175228.png"/>
 
 
-<br />
-<br />
-
-<img align="left" alt="alarmfox's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alarmfox&show_icons=true&hide_border=true&theme=dark" />
-
-
