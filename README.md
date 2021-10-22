@@ -1,7 +1,6 @@
 ### Hi, I'm Giuseppe - aka [alarmfox]
 #### 🇮🇹 🎓 Computer engineering student and distributed computing lover!
 
-- 🔭 I’m currently working on Kate: a distributed system for domotics;
 - 🌱 I’m currently learning kubernetes and microservices pattern;
 - 📅 2021 Goals: contributing more to open source projects;
 - ⚡ Fun fact: i love making music 🎧;
