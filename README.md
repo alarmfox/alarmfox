@@ -1,4 +1,4 @@
-### Hi, I'm Giuseppe - aka [alarmfox]
+### Hi, I'm Giuseppe
 #### 🇮🇹 🎓 Computer engineering student and distributed computing lover!
 
 - 🌱 I’m currently learning kubernetes and microservices pattern;
