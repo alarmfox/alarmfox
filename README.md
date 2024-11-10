@@ -1,11 +1,11 @@
-### Hi there, I'm Giuseppe! 👋
+### Hi there, I'm Giuseppe!
 #### 🇮🇹 🎓 MSc. Computer Engineering Student | Mentor@Cisco DTLab
 
 - 🌱 Currently diving deep into hardwware security **TEE**, **SGX** and **TDX**
 - 🖥️ A daily **Linux** user with a passion for low-level kernel stuff
 - ⚡ Fun fact: When I’m not coding, I’m probably making some music or playing **very** old games!
 
-### Current Project
+### Current Projects
 - **[linux-av](https://github.com/alarmfox/linux-av)**: Developing a malware scanner for Linux systems using **Rust** with sandboxed execution support
 
 ### Mentor stuff
