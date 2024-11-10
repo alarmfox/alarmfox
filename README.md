@@ -16,8 +16,8 @@ I am grouping (**slowly**) all my teaching/workshop materials in this [repo](htt
 <img align="left" alt="Go" width="30px" src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png"/>
 <img align="left" alt="C" width="30px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"/>
 <img align="left" alt="C++" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
-<img align="left" alt="C#" width="30px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"/>
-<img align="left" alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
+<img align="left" alt="Linux" width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"/>
+<img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
 <img align="left" alt="Docker" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/docker-11-1175228.png"/>
 
 <br />
