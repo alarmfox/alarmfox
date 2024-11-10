@@ -9,7 +9,7 @@
 - **[linux-av](https://github.com/alarmfox/linux-av)**: Developing a malware scanner for Linux systems using **Rust** with sandboxed execution support
 
 ### Mentor stuff
-I am grouping (**slowly**) all my teaching/workshop materials in this [repo](https://github.com/alarmfox/dtlab).
+I am collecting (**slowly**) all my teaching/workshop materials in this [repo](https://github.com/alarmfox/dtlab).
 
 ### Languages and Tools
 
