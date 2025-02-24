@@ -6,7 +6,8 @@
 - ⚡ Fun fact: When I’m not coding, I’m probably making some music or playing **very** old games!
 
 ### Current Projects
-- **[linux-av](https://github.com/alarmfox/linux-av)**: Developing a malware scanner for Linux systems using **Rust** with sandboxed execution support
+- **[enclave-benchmark](https://github.com/alarmfox/enclave-benchmark)**: a **Rust** cli application used to benchmark SGX (using Gramine-SGX) and non SGX applications;
+- **[linux-av](https://github.com/alarmfox/linux-av)**: Developing a malware scanner for Linux systems using **Rust** with sandboxed execution support;
 
 ### Mentor stuff
 I am collecting (**slowly**) all my teaching/workshop materials in this [repo](https://github.com/alarmfox/dtlab).
