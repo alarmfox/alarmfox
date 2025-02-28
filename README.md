@@ -1,7 +1,7 @@
 ### Hi there, I'm Giuseppe!
 #### 🇮🇹 🎓 MSc. Computer Engineering Student | Mentor@Cisco DTLab
 
-- 🌱 Currently diving deep into hardware security **TEE**, **SGX** and **TDX**
+- 🌱 Currently diving deep into hardware security **TEE**, **SGX** and **Cove**
 - 🖥️ A daily **Linux** user with a passion for low-level stuff
 - ⚡ Fun fact: When I’m not coding, I’m probably making some music or playing **very** old games!
 
