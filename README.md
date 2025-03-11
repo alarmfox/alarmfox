@@ -6,7 +6,7 @@
 - ⚡ Fun fact: When I’m not coding, I’m probably making some music or playing **very** old games!
 
 ### Current Projects
-- **[shadowfax](https://github.com/Granp4asso/shadowfax)**: my master thesis: a Rust based RISCV firmware which implements CoVE specification for trusted virtualization;
+- **[shadowfax](https://github.com/Granp4sso/shadowfax)**: my master thesis: a Rust based RISCV firmware which implements CoVE specification for trusted virtualization;
 - **[enclave-benchmark](https://github.com/alarmfox/enclave-benchmark)**: a **Rust** cli application used to benchmark SGX (using Gramine-SGX) and non SGX applications;
 - **[linux-av](https://github.com/alarmfox/linux-av)**: Developing a malware scanner for Linux systems using **Rust** with sandboxed execution support;
 
