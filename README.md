@@ -1,9 +1,9 @@
 ### Hi there, I'm Giuseppe!
-#### 🇮🇹 🎓 MSc. Computer Engineering Student | Mentor@Cisco DTLab
+#### 🇮🇹 🎓 MSc. Computer Engineering | Mentor@Cisco DTLab
 
-- 🌱 Currently diving deep into hardware security **TEE**: **SGX**, **CoVE**, **CCA** and **TDX**;
+- 🌱 Currently diving deep into hardware security **TEE**: **SGX**, **CoVE**, **CCA** and **TDX**
 - 🖥️ A daily **Linux** user with a passion for low-level stuff
-- ⚡ Fun fact: When I’m not coding, I’m probably making some music or playing **very** old games!
+- ⚡ Fun fact: When I’m not coding, I’m probably making some music or playing **very** old games
 
 ### Current Projects
 - **[shadowfax](https://github.com/Granp4sso/shadowfax)**: my master thesis: a Rust based RISCV firmware which implements CoVE specification for trusted virtualization;
