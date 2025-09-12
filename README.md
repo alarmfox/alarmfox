@@ -15,7 +15,7 @@
 I am collecting (**slowly**) all my teaching/workshop materials in this [repo](https://github.com/alarmfox/dtlab).
 
 ### Languages and Tools
-
+<img aligh="left" alt="Rust" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png"/>
 <img align="left" alt="Go" width="30px" src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png"/>
 <img align="left" alt="C" width="30px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"/>
 <img align="left" alt="C++" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
