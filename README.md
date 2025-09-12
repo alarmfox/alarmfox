@@ -7,7 +7,7 @@
 
 ### Current Projects
 - **[shadowfax](https://github.com/HiSA-Team/shadowfax)**: a Rust based RISCV firmware which implements CoVE specification for trusted virtualization;
-- **[xrpc](https://github.com/alarmfox/xrpc)**: a small RPC library in C. The goal is to enable distributed multi-dimensional maths operations leveragind different transport methods: from TCP sockets to RDMA technology;
+- **[xrpc](https://github.com/alarmfox/xrpc)**: a small RPC library in C. The goal is to enable distributed multi-dimensional maths operations leveraging different transport methods: from TCP sockets to RDMA technology;
 - **[enclave-benchmark](https://github.com/alarmfox/enclave-benchmark)**: a **Rust** cli application used to benchmark SGX (using Gramine-SGX) and non SGX applications;
 - **[linux-av](https://github.com/alarmfox/linux-av)**: Developing a malware scanner for Linux systems using **Rust** with sandboxed execution support;
 
