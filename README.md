@@ -5,9 +5,11 @@
 - 🖥️ A daily **Linux** user with a passion for low-level stuff
 - ⚡ Fun fact: When I’m not coding, I’m probably making some music or playing **very** old games
 
+Some thoughts [here](https://giuseppe.capass.org).
+
 ### Current Projects
 - **[shadowfax](https://github.com/HiSA-Team/shadowfax)**: a Rust based RISCV firmware which implements CoVE specification for trusted virtualization;
-- **[xrpc](https://github.com/alarmfox/xrpc)**: a small RPC library in C. The goal is to enable distributed multi-dimensional maths operations leveraging different transport methods: from TCP sockets to RDMA technology;
+- **[xrpc](https://github.com/alarmfox/xrpc)**: a small RPC library in C. The goal is to enable distributed multi-dimensional maths operations leveraging different transport methods;
 - **[enclave-benchmark](https://github.com/alarmfox/enclave-benchmark)**: a **Rust** cli application used to benchmark SGX (using Gramine-SGX) and non SGX applications;
 - **[linux-av](https://github.com/alarmfox/linux-av)**: Developing a malware scanner for Linux systems using **Rust** with sandboxed execution support;
 
