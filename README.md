@@ -9,9 +9,9 @@ Some thoughts [here](https://giuseppe.capass.org).
 
 ### Current Projects
 - **[shadowfax](https://github.com/HiSA-Team/shadowfax)**: a Rust based RISCV firmware which implements CoVE specification for trusted virtualization;
+- **[uav](https://github.com/alarmfox/uav)**: Developing a malware scanner for Linux systems in C;
 - **[xrpc](https://github.com/alarmfox/xrpc)**: a small RPC library in C. The goal is to enable distributed multi-dimensional maths operations leveraging different transport methods;
 - **[enclave-benchmark](https://github.com/alarmfox/enclave-benchmark)**: a **Rust** cli application used to benchmark SGX (using Gramine-SGX) and non SGX applications;
-- **[linux-av](https://github.com/alarmfox/linux-av)**: Developing a malware scanner for Linux systems using **Rust** with sandboxed execution support;
 
 ### Mentor stuff
 I am collecting (**slowly**) all my teaching/workshop materials in this [repo](https://github.com/alarmfox/dtlab).
@@ -27,6 +27,6 @@ I am collecting (**slowly**) all my teaching/workshop materials in this [repo](h
 <br />
 
 ### What I’m Passionate About
-- **Systems Programming**: Building robust, low-level software with **Rust**, **C**, and **C++**.
-- **Cybersecurity**: Understanding both low-level/hardware security and web security
+- **Systems Programming**: Building robust, low-level software with **Rust**, **C**, and **GO**.
+- **Cybersecurity**: Understanding both low-level/hardware and web security
 - **Networking**: Fascinated by distributed computing and efficient network architectures
