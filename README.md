@@ -9,9 +9,9 @@ Some thoughts [here](https://giuseppe.capass.org).
 
 ### Current Projects
 - **[shadowfax](https://github.com/HiSA-Team/shadowfax)**: a Rust based RISCV firmware which implements CoVE specification for trusted virtualization;
+- **[enclave-benchmark](https://github.com/alarmfox/enclave-benchmark)**: a **Rust** cli application used to benchmark SGX (using Gramine-SGX) and non SGX applications;
 - **[uav](https://github.com/alarmfox/uav)**: Developing a malware scanner for Linux systems in C;
 - **[xrpc](https://github.com/alarmfox/xrpc)**: a small RPC library in C. The goal is to enable distributed multi-dimensional maths operations leveraging different transport methods;
-- **[enclave-benchmark](https://github.com/alarmfox/enclave-benchmark)**: a **Rust** cli application used to benchmark SGX (using Gramine-SGX) and non SGX applications;
 
 ### Mentor stuff
 I am collecting (**slowly**) all my teaching/workshop materials in this [repo](https://github.com/alarmfox/dtlab).
